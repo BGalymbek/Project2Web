@@ -293,7 +293,6 @@ section{
 	text-transform: uppercase;
 }
 .menu-item ul{
-	float: center;
 	padding-left: 0;
 	margin-bottom: 0;
 }
@@ -495,7 +494,7 @@ section{
 .contact .vira-card .vira-card-header{
 	margin-bottom: 15px;
 	font-size: 21px;
-	color: hsla(175, 48%, 54%, 1);
+	color: #51c2b9;
 }
 .contact .vira-card .vira-card-content h3{
 	letter-spacing: 2px;
@@ -513,7 +512,7 @@ section{
 	padding: 60px 0;
 }
 .footer span{
-	color: hsla(175, 48%, 54%, 1);
+	color: #51c2b9;
 }
 .footer p{
 	font-size: 21px;

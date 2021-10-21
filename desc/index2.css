@@ -14,18 +14,19 @@ body{
   position:relative; 
     height: 250px; 
     background-color: #ffffff;
-     margin-bottom: 5px; 
+    margin-bottom: 5px; 
     border-radius: 5px;
     box-shadow: rgba(0,0,0,0.5) 0px 1px 3px; 
-      display: flex;
-      flex-direction: row;
+    display: flex;
+    flex-direction: column;
+    border:1px solid black;
   }
   img{ 
   float: left;
     margin: -40px 0 0 0;} 
   h1{ 
     margin:0 0 10px 40px; 
-    color:#464451; 
+    color:hsl(249, 9%, 29%);; 
   }
   .nomer{ 
    margin-left: 60px;
@@ -73,11 +74,10 @@ body{
   
   
   #footer{ 
-    background-color: blanchedalmond;
+    background-color: hsl(36, 20%, 95%);
     display: flex;
     flex-direction: row;
     height:80px; 
-    background-color: #ffffff; 
     margin-bottom: 10px; 
     border-radius: 5px; 
     box-shadow: rgba(0,0,0,0.5) 0px 1px 3px; 
@@ -104,10 +104,10 @@ body{
       margin-right: 25px;
   }
   .table{
-    background-color: #ffffff; 
     margin-bottom: 10px; 
     border-radius: 5px; 
     box-shadow: rgba(0,0,0,0.5) 0px 1px 3px;
+    font-family: 'Raleway',sans-serif;
   }
   table, th, td {
     border:1px solid black;
