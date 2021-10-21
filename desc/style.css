@@ -397,7 +397,7 @@ section{
 }
 
 .expert{
-	background-color: #f8f8f8;
+	background-color: hsla(0, 0%, 97%, 1);;
 }
 .expert p{
 	line-height: 200%;
