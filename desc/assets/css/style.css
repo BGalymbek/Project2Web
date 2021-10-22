@@ -551,7 +551,15 @@ section{
 
 
 @media (max-width: 767px){
-	.vira-card{
+	.vira-card,.vira-quote{
 		margin-bottom: 60px;
+	}
+}
+@media (max-width: 375px){
+	.about{
+		margin-bottom: 60px;
+	}
+	.about img{
+		max-width: 100px;
 	}
 }
